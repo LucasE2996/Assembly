@@ -9,5 +9,6 @@ Sistema operacoinal: Windows XP - 32bits
 
 Compilador: debug
 
-=======================
+--------------------
+
 College Stuff
